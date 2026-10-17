@@ -1,0 +1,67 @@
+[
+  {
+    "name": "hero",
+    "width": 1280,
+    "height": 1536
+  },
+  {
+    "name": "residential",
+    "width": 1280,
+    "height": 960
+  },
+  {
+    "name": "society",
+    "width": 1280,
+    "height": 960
+  },
+  {
+    "name": "lawn",
+    "width": 1280,
+    "height": 960
+  },
+  {
+    "name": "landscaping",
+    "width": 1280,
+    "height": 960
+  },
+  {
+    "name": "vertical",
+    "width": 1280,
+    "height": 1707
+  },
+  {
+    "name": "balcony",
+    "width": 1280,
+    "height": 1707
+  },
+  {
+    "name": "irrigation",
+    "width": 1280,
+    "height": 960
+  },
+  {
+    "name": "pots",
+    "width": 1280,
+    "height": 960
+  },
+  {
+    "name": "makeover",
+    "width": 1280,
+    "height": 960
+  },
+  {
+    "name": "maintenance",
+    "width": 1280,
+    "height": 960
+  },
+  {
+    "name": "soil",
+    "width": 1280,
+    "height": 960
+  },
+  {
+    "name": "frames",
+    "width": 1280,
+    "height": 960
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "name": "house-of-garden",
+  "version": "1.0.0",
+  "private": true,
+  "description": "House of Garden — gardening and landscaping services in Mumbai. Static-export Next.js site for Cloudflare Pages.",
+  "scripts": {
+    "dev": "next dev",
+    "prebuild": "node scripts/check-config.mjs",
+    "build": "next build",
+    "preview": "npx --yes serve@14 out",
+    "typecheck": "tsc --noEmit",
+    "test": "tsx --test tests/*.test.ts",
+    "images:generate": "node scripts/generate-images.cjs"
+  },
+  "dependencies": {
+    "next": "^15.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0"
+  },
+  "engines": {
+    "node": ">=18.18.0"
+  }
+}
